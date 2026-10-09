@@ -1,3 +1,9 @@
+
+
+[HamTec-IC7100-Photo-Console.zip](https://github.com/user-attachments/files/33265456/HamTec-IC7100-Photo-Console.zip)
+
+[HamTec-IC7100-GitHub-Ready.zip](https://github.com/user-attachments/files/33265461/HamTec-IC7100-GitHub-Ready.zip)
+
 # HamTec IC-7100 Photo Console
 
 A Raspberry Pi Linux control panel for the **Icom IC-7100**, using a real IC-705 photograph as an interactive radio chassis.
